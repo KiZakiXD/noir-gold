@@ -1,4 +1,4 @@
-# Noir Gold — Undangan Pernikahan Digital
+# Template Undangan Digital — Noir Gold
 
 Template undangan pernikahan digital satu file HTML bergaya film sinematik: hitam pekat & emas, alur Prolog – Babak I–IV – Epilog, dramatis dan mewah.
 
